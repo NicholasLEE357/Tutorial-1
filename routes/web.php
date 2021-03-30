@@ -12,8 +12,4 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-<<<<<<< HEAD
 HIHI
-=======
-
->>>>>>> parent of 515bcf4... Hello
